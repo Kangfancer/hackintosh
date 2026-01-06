@@ -11,7 +11,7 @@ Kang-Maxsun-B760i-efi
 
 主板：B760i 铭瑄 D4 
 
-CPU: Q0L5 13700es 
+CPU：Q0L5 13700es 
 
 内存：金百达 16g*2 3600mhz（运行在3200mhz）
 
